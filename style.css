@@ -1,0 +1,10 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+p{
+    margin: auto;
+    background-color: azure;
+    padding: 10px;
+    text-align: justify;
+}
